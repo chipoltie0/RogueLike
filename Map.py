@@ -11,6 +11,7 @@ class Tile:
         self.blocks_sight = blocks_sight
         self.fg = fg
         self.bg = bg
+        # does nothing
 
 
 class Map:
@@ -214,6 +215,7 @@ class OrganicGenerator:
         start_point = random.uniform(0,len(seed_room.edges))
         #Test comment horay!
         print("horay!!")
+        print("more horay!")
 
 class Partition:
 
