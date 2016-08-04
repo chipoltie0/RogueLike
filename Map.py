@@ -213,7 +213,7 @@ class OrganicGenerator:
         # get location to start growing room
         start_point = random.uniform(0,len(seed_room.edges))
         #Test comment horay!
-        print("horay!")
+        print("horay!!")
 
 class Partition:
 
